@@ -4,9 +4,9 @@ Test server for groupmates to test arduino code
 
 1. Install npm and postman on your computer
 
-https://www.npmjs.com/get-npm
+            https://www.npmjs.com/get-npm
 
-https://www.postman.com/downloads/
+            https://www.postman.com/downloads/
 
 
 
@@ -18,20 +18,20 @@ https://www.postman.com/downloads/
 
 3. Run commands: 
 
-      npm install
+            npm install
       
-      npm start
+            npm start
   
   
   
   
 4. Open Postman application and enter test route
 
-      Select POST from dropdown menu left of address bar.
+             Select POST from dropdown menu left of address bar.
       
-      In address bar, enter:  http://localhost:5000/routes/test
+            In address bar, enter:  http://localhost:5000/routes/test
       
-      On the right of address bar, hit SEND
+            On the right of address bar, hit SEND
       
 
 
