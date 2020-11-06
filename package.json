@@ -1,0 +1,27 @@
+{
+  "name": "testserver",
+  "version": "1.0.0",
+  "description": "Test Server for groupmates",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendellrodrigues/testserver.git"
+  },
+  "author": "Wendell Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendellrodrigues/testserver/issues"
+  },
+  "homepage": "https://github.com/wendellrodrigues/testserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
