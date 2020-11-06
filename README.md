@@ -2,7 +2,9 @@
 Test server for groupmates to test arduino code
 
 
-1. Install npm and postman on your computer
+1. Install these on your computer
+
+   https://desktop.github.com/
 
    https://www.npmjs.com/get-npm
 
