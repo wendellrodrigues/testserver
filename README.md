@@ -17,7 +17,7 @@ https://www.npmjs.com/get-npm
   
 4. Open Postman application and enter test route
 
-      Select POST from dropdown menu left of address bar
+      Select POST from dropdown menu left of address bar.
       In address bar, enter:  http://localhost:5000/routes/test
       On the right of address bar, hit SEND
       
